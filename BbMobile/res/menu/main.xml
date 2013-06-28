@@ -13,8 +13,8 @@
         android:actionLayout="@layout/action_choose"  />
     
     <item 
-        android:title=""
+        android:title="Refresh"
         android:icon="@drawable/ic_menu_refresh"
-        android:showAsAction="ifRoom" />
+        android:showAsAction="never" />
 
 </menu>
