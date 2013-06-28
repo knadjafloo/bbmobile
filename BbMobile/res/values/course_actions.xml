@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="course_actions">
+        <item>Home</item>
+        <item>Announcements</item>
+        <item>Grades</item>
+        <item>Blogs</item>
+        <item>Discussions</item>
+    </string-array>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="courses_names">
+        <item>CALC 101</item>
+        <item>BIO 313</item>
+        <item>CHEM 101</item>
+        <item>BIO 156</item>
+    </string-array>
+</resources>

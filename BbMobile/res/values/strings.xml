@@ -5,4 +5,13 @@
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
 
+    <string name="course_header">Courses</string>
+        <string name="org_header">Organizations</string>
+    
+    <string name="course1">CALC 101</string>
+    <string name="course2">BIO 313</string>
+    <string name="course3">CHEM 101</string>
+    <string name="course4">BIO 156</string>
+    
+    <string name="org1">SFU</string>
 </resources>
